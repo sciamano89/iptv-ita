@@ -49,7 +49,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=rainet/4.0.4 (Linux;Android 14) ExoPlayerLib/2.18.0
 https://raiquattro1-dash-live.akamaized.net/dash/live/663977/raiquattro1/manifest.mpd
 #EXTINF:-1 tvg-chno="22" tvg-id="iris" tvg-name="Iris" tvg-logo="https://www.dagospia.com/img/foto/05-2013/logo-iris-241282.jpg" group-title="Mediaset",Iris
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-chno="23" tvg-id="rai 5" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/dEFPWi8.png" group-title="Rai Tv",Rai 5
 #EXTVLCOPT:http-user-agent=rainet/4.0.4 (Linux;Android 14) ExoPlayerLib/2.18.0
 https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.mpd
